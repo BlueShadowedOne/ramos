@@ -37,6 +37,7 @@
 		["Humanístico I", "HRW101", 2, "HUM"]
 	],
 	"s6": [
+		["Probabilidad y Estadística para Ingeniería", "MAT035", 4, "CEL", ["MAT023"]],
 		["Elementos de Máquinas", "MEC258", 3, "VER", ["MEC255"]],
 		["Fundamentos del Diseño", "MEC245", 3, "VER"],
 		["Mecánica de Fluidos", "MEC120", 4, "VER", ["MAT024","MEC110"]],
